@@ -14,6 +14,7 @@ body {
 #display {
     text-align: right;
     background-color: #4e4e4e;
+    color: #00d607;
     border: solid 1px black;
     width: 400px;
     height: 120px;
